@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
 
-## About Me
-<div align='left'>
+### 🤔 About Me 🤔
+<div align='left' style="margin-left:20%, margin-right:20%">
   <ul>
     <li> 🔭 I’m currently study in ssafy
     <li> 🌱 I’m currently learning React.js, next.js
