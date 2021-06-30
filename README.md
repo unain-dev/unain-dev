@@ -23,8 +23,8 @@
 
 ### 🤔 About Me 🤔
 
-    - 🔭 I’m currently study in ssafy
-    - 🌱 I’m currently learning React.js, next.js
-    - 👯 I’m looking to collaborate on tourapi development and LikeLion's project
+  - 🔭 I’m currently study in <strong>ssafy</strong>
+  - 🌱 I’m currently learning <strong>React.js, next.js</strong>
+  - 👯 I’m looking to collaborate on <strong>tourapi development and LikeLion's project</strong>
     - 💬 Ask me about anything!
 </div>
