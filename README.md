@@ -16,9 +16,10 @@
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
 
 ## About Me
+<div align='left'>
 - 🔭 I’m currently study in ssafy
 - 🌱 I’m currently learning React.js, next.js
 - 👯 I’m looking to collaborate on tourapi development and LikeLion's project
 - 💬 Ask me about anything!
-
+  </div>
   </div>
