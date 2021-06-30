@@ -22,11 +22,9 @@
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
 
 ### 🤔 About Me 🤔
-</div>
 
-  <ul style="display:table; margin: 0 auto;">
-    <li> 🔭 I’m currently study in ssafy
-    <li> 🌱 I’m currently learning React.js, next.js
-    <li> 👯 I’m looking to collaborate on tourapi development and LikeLion's project
-    <li> 💬 Ask me about anything!
-  <ul>
+    - 🔭 I’m currently study in ssafy
+    - 🌱 I’m currently learning React.js, next.js
+    - 👯 I’m looking to collaborate on tourapi development and LikeLion's project
+    - 💬 Ask me about anything!
+</div>
