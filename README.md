@@ -22,6 +22,8 @@
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
 
 ### 🤔 About Me 🤔
+</div>
+
   <div align='left'>
   <ul style="display:table; margin-left: auto; margin-right:auto;">
     <li> 🔭 I’m currently study in ssafy
@@ -30,4 +32,3 @@
     <li> 💬 Ask me about anything!
   <ul>
     </div>
-</div>
