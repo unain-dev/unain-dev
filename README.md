@@ -21,8 +21,14 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
 
+### experience
+<div align='left'>
+  <ul style="displya:table; margin: 0 auto;">
+    <li>Like Lion 9th
+  </ul>
+  </div>
+  
 ### 🤔 About Me 🤔
-
   - 🔭 I’m currently study in <strong>ssafy</strong>
   - 🌱 I’m currently learning <strong>React.js, next.js</strong>
   - 👯 I’m looking to collaborate on <strong>tourapi development and LikeLion's project</strong>
