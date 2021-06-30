@@ -24,11 +24,9 @@
 ### 🤔 About Me 🤔
 </div>
 
-  <div align='left'>
   <ul style="display:table; margin: 0 auto;">
     <li> 🔭 I’m currently study in ssafy
     <li> 🌱 I’m currently learning React.js, next.js
     <li> 👯 I’m looking to collaborate on tourapi development and LikeLion's project
     <li> 💬 Ask me about anything!
   <ul>
-    </div>
