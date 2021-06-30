@@ -1,8 +1,11 @@
-##✨ Hi! It's Unain's Github ✨
+# ✨ Hi! It's Unain's Github ✨
 
-##Contact Me
+## Contact Me
 <a href="mailto:daeun84366@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+## My Stack
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"># 61DAFB</font></font>
 
 - 🔭 I’m currently study in ssafy
 - 🌱 I’m currently learning React.js, next.js
