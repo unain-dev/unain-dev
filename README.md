@@ -17,9 +17,11 @@
 
 ## About Me
 <div align='left'>
-- 🔭 I’m currently study in ssafy
-- 🌱 I’m currently learning React.js, next.js
-- 👯 I’m looking to collaborate on tourapi development and LikeLion's project
-- 💬 Ask me about anything!
+  <ul>
+    <li> 🔭 I’m currently study in ssafy
+    <li> 🌱 I’m currently learning React.js, next.js
+    <li> 👯 I’m looking to collaborate on tourapi development and LikeLion's project
+    <li> 💬 Ask me about anything!
+  <ul>
   </div>
-  </div>
+ </div>
