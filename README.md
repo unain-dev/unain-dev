@@ -22,12 +22,11 @@
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
   </div>
   
-### experience
-<div align='left'>
-  <ul style="displya:table; margin: 0 auto;">
-    <li>Like Lion 9th
-  </ul>
-  </div>
+### Experience
+- SSAFY 6th (2021.7 ~ 2022. 6)
+- Like Lion 9th (2021.4 ~ 2021.12)
+- 한국관광공사 tour api 공모전(2021.7 ~ 2021.11)
+- SeoulTech ST Pathfinder 3th
   
 ### 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
