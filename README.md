@@ -4,7 +4,9 @@
 ### 🛠 Contact Me 🛠
 <a href="mailto:daeun84366@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-<br>
+
+<br><br>
+
 ### 💻 My Stack 💻
 <div >
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html&logoColor=white" style="float:left; margin-right:10px;"/>
@@ -22,11 +24,15 @@
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
   </div>
   
+  <br><br>
+  
 ### :office: Experience :office:
 - SSAFY 6th (2021.7 ~ 2022. 6)
 - Like Lion 9th (2021.4 ~ 2021.12)
 - 한국관광공사 tour api 공모전(2021.7 ~ 2021.11)
 - SeoulTech ST Pathfinder 3th(2021. 1~ 2021.2)
+  
+  <br><br>
   
 ### 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
