@@ -1,12 +1,12 @@
 <h1 align='center'>✨ Hi! It's Unain's Github ✨</h1>
 
-<div align='center'>
   
 ### 🛠 Contact Me 🛠
 <a href="mailto:daeun84366@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <br>
 ### 💻 My Stack 💻
+<div align='center'>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF12?style=flat-square&logo=javaScript&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
@@ -20,7 +20,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/></a>
-
+  </div>
+  
 ### experience
 <div align='left'>
   <ul style="displya:table; margin: 0 auto;">
@@ -33,4 +34,3 @@
   - 🌱 I’m currently learning <strong>React.js, next.js</strong>
   - 👯 I’m looking to collaborate on <strong>tourapi development and LikeLion's project</strong>
   - 💬 Ask me about <strong>anything!</strong>
-</div>
