@@ -1,10 +1,10 @@
 <h1 align='center'>✨ Hi! It's Unain's Github ✨</h1>
 
-<h3 align='center'>🛠 Contact Me 🛠</h3>
+### 🛠 Contact Me 🛠
 <a href="mailto:daeun84366@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
-<h3 align='center'>💻 My Stack 💻</h3>
+### 💻 My Stack 💻
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF12?style=flat-square&logo=javaScript&logoColor=white" style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;"/>
