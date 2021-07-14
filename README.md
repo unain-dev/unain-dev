@@ -24,7 +24,6 @@
 ### :office: Experience :office:
 - SSAFY 6th (2021.7 ~ 2022. 6)
 - Like Lion 9th (2021.4 ~ 2021.12)
-- 한국관광공사 tour api 공모전(2021.7 ~ 2021.11)
 - SeoulTech ST Pathfinder 3th(2021. 1~ 2021.2)
   
   <br><br>
