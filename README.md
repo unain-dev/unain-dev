@@ -23,7 +23,7 @@
   
 ### :office: Experience :office:
 - SSAFY 6th (2021.7 ~ 2022. 6)
-- Like Lion 9th (2021.4 ~ 2021.12)
+- Like Lion 9th (2021.4 ~ 2021.8)
 - SeoulTech ST Pathfinder 3th(2021. 1~ 2021.2)
   
   <br><br>
