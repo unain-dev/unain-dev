@@ -30,8 +30,8 @@
   
 ### 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
-  - 🌱 I’m currently learning <strong>React.js, next.js</strong>
-  - :fire: I'm currently develop <strong>tour website, django website</strong>
+  - 🌱 I’m currently learning <strong>React.js, next.js, spring, vue.js</strong>
+  - :fire: I'm currently develop <strong>react & spirng, vue & spring website</strong>
   - 💬 Ask me about <strong>anything!</strong>
   
 <br><br>
