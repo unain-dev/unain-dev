@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="float:left; margin-right:10px;"/>
-
+<img src="https://img.shields.io/badge/Jira-181717?style=flat-square&logo=Jira&logoColor=white" style="float:left; margin-right:10px;"/>
   </div>
   
   <br><br>
