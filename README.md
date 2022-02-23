@@ -33,7 +33,7 @@
 ### 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
   - 🌱 I’m currently learning <strong>React.js, Vue.js, Spring</strong>
-  - :fire: I'm currently develop <strong>React & Spirng, Vue & Spring Website</strong>
+  - :fire: I'm currently develop <strong>React & Redux</strong>
   - 💬 Ask me about <strong>anything!</strong>
   
 <br><br>
