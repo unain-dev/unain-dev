@@ -2,7 +2,7 @@
 
   
 
-### 💻 My Stack 💻
+## 💻 My Stack 💻
 <div >
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css&logoColor=white" style="float:left; margin-right:10px;"/>
@@ -23,22 +23,26 @@
   
   <br><br>
   
-### :office: Experience :office:
+## :office: Experience :office:
 - SSAFY 6th (2021.7 ~ 2022. 6)
 - Like Lion 9th (2021.4 ~ 2021.8)
 - SeoulTech ST Pathfinder 3th(2021. 1~ 2021.2)
   
   <br><br>
   
-### 🤔 About Me 🤔
+  
+## 👑 Portfolio 👑
+### 👉Click to Unain's Notion Portfolio👈
+  
+## 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
-  - 🌱 I’m currently learning <strong>React.js, Vue.js, Spring</strong>
+  - 🌱 I’m currently learning <strong>Next.js, TypeScript</strong>
   - :fire: I'm currently develop <strong>React & Redux</strong>
   - 💬 Ask me about <strong>anything!</strong>
   
 <br><br>
 
-### 🛠 Contact Me 🛠
+## 🛠 Contact Me 🛠
 <a href="mailto:daeun84366@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/unain-dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
