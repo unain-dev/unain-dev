@@ -30,9 +30,11 @@
   
   <br><br>
   
-  
 ## 👑 Portfolio 👑
-### 👉Click to Unain's Notion Portfolio👈
+### [👉Click to Unain's Notion Portfolio👈](https://chisel-eagle-240.notion.site/0-1-0a185a5554024496ae442572b0426ca2)
+  
+  <br><br>
+  
   
 ## 🤔 About Me 🤔
   - 🔭 I’m currently study in <strong>ssafy</strong>
