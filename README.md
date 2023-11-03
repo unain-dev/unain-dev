@@ -33,8 +33,8 @@
   
   
 ## 🤔 About Me
-  - 🌱 I’m currently learning <strong>Next.js, TypeScript</strong>
-  - :fire: I'm currently develop <strong>React & Redux</strong>
+  - 🌱 I’m currently learning <strong>Next.js, Web Performance Optimization, GSAP</strong>
+  - :fire: I'm currently develop <strong>React & Redux & TypeScript</strong>
   - 💬 Ask me about <strong>anything!</strong>
   
 <br><br>
