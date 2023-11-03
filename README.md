@@ -5,10 +5,12 @@
 ## 💻 Main Stack
 <div >
 <img src="https://img.shields.io/badge/JavaScript-F7DF12?style=flat-square&logo=javaScript&logoColor=white" style="float:left; margin-right:10px;"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" style="float:left; margin-right:10px;"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" style="float:left; margin-right:10px;"/>
-<br>
+
+  <br>
 
   </div>
   
